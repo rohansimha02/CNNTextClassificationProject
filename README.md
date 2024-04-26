@@ -1,1 +1,3 @@
 # CNNTextClassificationProject
+
+### This GitHub repository hosts the project on Multi-Language Text Classification using Convolutional Neural Networks (CNNs). It features Python code implementing three CNN architectures designed to distinguish printed text images in five languages—English, Chinese, Thai, Danish, and Russian. The models leverage TensorFlow's capabilities for data augmentation and performance evaluation through confusion matrices. Explore the repository to find detailed code, model training evaluations, and insights on improving text classification accuracy across visually similar scripts.
